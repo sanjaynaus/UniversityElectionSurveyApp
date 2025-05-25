@@ -23,6 +23,8 @@ File Descriptions:
 
 Dependencies:
 - matplotlib
+-csv
+-os
 
 Author: Sanjay Tamata
 Date: 25th May, 2025
